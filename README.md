@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm John Waver Aguilar</h1>
-<h3 align="center">A Software Developer from Manila</h3>
+<h3 align="center">A Full-Stack Developer from Manila</h3>
 
-- 🔭 I’m currently working on **Kamagaral**
+- 🔭 I’m currently working on **EYEGAZE**
 - 🌱 I’m currently learning **React**
 - 📫 How to reach me **johnwaveraguilar@gmail.com**
 
