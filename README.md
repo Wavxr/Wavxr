@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm John Waver Aguilar</h1>
 <h3 align="center">A Full-Stack Developer from Manila, Passionate About AI, Web Development, and Innovation</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=wavxr&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-</p>
-
 ---
 
 ### 🚀 About Me
