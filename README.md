@@ -4,8 +4,7 @@
 ---
 
 ### 🚀 About Me
-- 🔭 I’m currently working on **EYEGAZE**, an Eye-Tracking Web Application for UI/UX analytics and marketing insights.
-- 🌱 I’m currently learning **React, FastAPI, and cloud services**.
+- 🔭 I’ve recently completed working on SuperMango , a mobile application integrating a ResNet deep learning model to help farmers detect and manage anthracnose in crops.
 - 🎯 I’m interested in **AI, Machine Learning, and Full-Stack Development**.
 - 🎵 I enjoy **music, anime, movies, and spending time with my pets**.
 - 📖 I love **reading manga, books, and exploring new tech trends**.
@@ -22,6 +21,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
 </p>
 
 **🌐 Frontend:**  
@@ -29,6 +29,8 @@
   <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Expo-000000?style=flat&logo=expo&logoColor=D84315"/>
 </p>
 
 **🔧 Backend & Databases:**  
